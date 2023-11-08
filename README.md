@@ -13,3 +13,14 @@ The producer creates items, or "puts them on a table", and the cosumer consumes 
 > ./producer & ./consumer &
 
 ## Example Output
+>6 items put on the table.
+>Picked up 3
+>7 items put on the table.
+>Picked up 6
+>5 items put on the table.
+>Picked up 7
+>3 items put on the table.
+>Picked up 5
+>5 items put on the table.
+>Picked up 3
+>6 items put on the table.
